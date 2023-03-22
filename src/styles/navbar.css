@@ -1,0 +1,11 @@
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+.navbar ul li {
+    text-decoration: none;
+    color: black;
+    padding: 0 15px;
+    border: 1px solid black;
+    margin: 0 15px;
+}
